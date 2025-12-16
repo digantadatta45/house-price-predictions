@@ -97,7 +97,7 @@ We implement and compare 6 different algorithms:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/digantadatta45/house-price-prediction.git
 cd house-price-prediction
 ```
 
